@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>I am the Mater</title>
+    <title>dashboard</title>
 </head>
 <body>
     <header>
-        Header
+        <h1>Formulario de Post</h1>
     </header>
     @yield('content')
 
@@ -17,7 +17,7 @@
     </section>
     
     <footer>
-        Footer
+        <h5>Footer de prueba</h5>
     </footer>
 </body>
 </html>
